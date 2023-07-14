@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-I’m currently learning rust systems programming and tauri<br>
+I’m currently learning systems programming in my spare time and writing an OS in rust<br>
+
+[interstellar OS](https://github.com/interstellarfrog/interstellar_os)
 
  
 # 💻 Languages Frameworks And Tools:
