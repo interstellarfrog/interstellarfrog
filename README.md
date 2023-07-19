@@ -2,7 +2,7 @@
 
 I’m currently learning systems programming in my spare time and writing an OS in rust<br>
 
-[interstellar OS](https://github.com/interstellarfrog/interstellar_os)
+[interstellar OS](https://github.com/interstellarfrog/interstellar)
 
  
 # 💻 Languages Frameworks And Tools:
